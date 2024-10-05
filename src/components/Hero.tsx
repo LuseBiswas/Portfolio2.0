@@ -3,7 +3,7 @@ import React from 'react'
 import Image from 'next/image';
 import cursor from '../assets/icon1.png';
 import lightining from '../assets/icon2.png';
-import { motion, useDragControls } from "framer-motion"
+import { motion} from "framer-motion"
 import profilePic from '../assets/profilepic.png';
 function Hero() {
   return (
