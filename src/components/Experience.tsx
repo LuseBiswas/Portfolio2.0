@@ -29,7 +29,7 @@ function Experience() {
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl font-bold text-white/80 ">SDE Intern</h2>
               <p className="text-lg text-white/70 mt-2">
-                Worked at Solar Secure Solutions where I worked on some government projects to understand the complex and light weight structure.
+                Worked at <b>Solar Secure Solutions</b> where I worked on some government projects to understand the complex and light weight structure.
               </p>
             </div>
           </div>
@@ -43,7 +43,7 @@ function Experience() {
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl font-bold text-white/80 ">Open Source Contributor</h2>
               <p className="text-lg text-white/70 mt-2">
-              Contributed to open-source projects on GitHub, improving performance and fixing bugs in React libraries, including resolving 3 issues in MaterialUI.
+              Contributed to open-source projects on GitHub, improving performance and fixing bugs in React libraries, including resolving 3 issues in <b>MaterialUI</b>.
               </p>
             </div>
           </div>
@@ -57,7 +57,7 @@ function Experience() {
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl font-bold text-white/80 ">HR-Intern</h2>
               <p className="text-lg text-white/70 mt-2">
-                Working as a HR Intern for Uiversal Tribes. Which helps me to improve my communication skills and boost my confidence.
+                Working as a HR Intern for <b>Uiversal Tribes</b>. Which helps me to improve my communication skills and boost my confidence.
               </p>
             </div>
           </div>
@@ -69,9 +69,9 @@ function Experience() {
           <div className="flex flex-row p-6 ">
           <Image src={internshipIcon4} alt="internship" className="w-auto h-[130px]" />
             <div className="flex flex-col mt-4">
-              <h2 className="text-2xl font-bold text-white/80 ">Contract Work</h2>
+              <h2 className="text-2xl font-bold text-white/80 ">Contract Worker</h2>
               <p className="text-lg text-white/70 mt-2">
-                Currently I am contributor on Earthfeild Project. Which is a platform to meet the retailer to the big MNC. To full fill the Supply and Demand in market.
+                Currently I am contributor on <b>Earthfeild</b> Project. Which is a platform to meet the retailer to the big MNC. To full fill the Supply and Demand in market.
               </p>
             </div>
           </div>
