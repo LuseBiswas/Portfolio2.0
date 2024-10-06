@@ -18,7 +18,7 @@ const projects = [
   },
 
   {
-    title: "CUPE(Chandigarh University Placement Expereince)",
+    title: "CUPE(Chandigarh University Placement Experience)",
     descriptio:
       "Developed a website where seniors share campus placement experiences, aiding juniors in preparation.",
     devStack:

@@ -10,7 +10,7 @@ function Contact() {
         <ul className='space-y-4 '>
             <li className='flex items-center'>
                 <Image src={phone} alt='phone' className='h-[110px] w-auto mr-6'/>
-                <p className='text-xl '>9815809989</p>
+                <p className='text-xl '>+91-9815809989</p>
             </li>
 
             <li className='flex items-center'>
