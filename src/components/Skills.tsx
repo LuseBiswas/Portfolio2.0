@@ -33,7 +33,12 @@ function Skills() {
   return (
     <div className='bg-[linear-gradient(to_top,#000,#38a5f_80%)] py-32'>
         <div className='text-white w-[400px] md:min-w-[950px] mx-auto p-8 text-center'>
-            <h2 className='text-6xl font-bold mb-4'>What I Do</h2>
+        <h1 className="text-white text-6xl max-w-[400px] mx-auto font-semibold my-12">
+      <span className="text-orange-400 ">&lt;</span>
+      WhatIDo
+      <span className="text-orange-400 ">&#47;</span> 
+        <span className="text-orange-400 ">&gt;</span>
+      </h1>
             <div className='grid grid-cols-2 md:grid-cols-4  gap-6  '>
                 {
                     skillIcons.map((skills,index)=>(

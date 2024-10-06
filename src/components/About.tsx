@@ -10,9 +10,12 @@ function About() {
   return (
     <div className="max-w-[1200px] mx-auto" id="about">
         
-        <h1 className="text-white text-6xl max-w-[320px] mx-auto font-semibold p-4 mb-4">About  
-            <span className="text-orange-400 ">Me</span>
-            </h1>
+        <h1 className="text-white text-6xl max-w-[280px] mx-auto font-semibold my-12">
+      <span className="text-orange-400 ">&lt;</span>
+      About
+      <span className="text-orange-400 ">&#47;</span> 
+        <span className="text-orange-400 ">&gt;</span>
+      </h1>
 
 
 

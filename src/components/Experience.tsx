@@ -12,9 +12,11 @@ function Experience() {
   return (
     <div className="mt-20 max-w-[1200px] mx-auto" id="experience">
         
-      <h1 className="text-white text-6xl max-w-[320px] mx-auto font-semibold my-12">
-      Carrer
-        <span className="text-orange-400 ">Path</span>
+      <h1 className="text-white text-6xl max-w-[400px] mx-auto font-semibold my-12">
+      <span className="text-orange-400 ">&lt;</span>
+      CarrerPath
+      <span className="text-orange-400 ">&#47;</span> 
+        <span className="text-orange-400 ">&gt;</span>
       </h1>
 
       <div className="px-6 md:p-0 grid md:grid-cols-8 gap-6 place-items-center">

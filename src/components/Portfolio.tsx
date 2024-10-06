@@ -44,8 +44,10 @@ function Portfolio() {
       id="portfolio"
     >
       <h1 className="text-white text-6xl max-w-[320px] mx-auto font-semibold my-12">
-      Notable
-        <span className="text-orange-400 ">Work</span>
+      <span className="text-orange-400 ">&lt;</span>
+      Projects
+      <span className="text-orange-400 ">&#47;</span> 
+        <span className="text-orange-400 ">&gt;</span>
       </h1>
 
       <div className="px-6 md:px-0 max-w-[1000px] mx-auto mt-40 space-y-24">
