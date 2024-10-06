@@ -5,6 +5,7 @@ import cursor from '../assets/icon1.png';
 import lightining from '../assets/icon2.png';
 import { motion} from "framer-motion"
 import profilePic from '../assets/profilepic.png';
+import profilePic2 from '../assets/PROFILE.png';
 function Hero() {
   return (
     <div className='py-24 relative overflow-clip bg-[linear-gradient(to_bottom,#000,#2B1942_35%,#BF5C55_60%,#DBAF6E_80%)]'>
@@ -33,9 +34,9 @@ function Hero() {
       
 
       <p className='text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80'>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor tenetur aspernatur atque velit, quas ipsam? Quae ab velit mollitia odit?
+      Want to know more about me ?. Scroll down.
       </p>
-      <Image src={profilePic} alt='profile' className='h-auto w-auto mx-auto'/>
+      <Image src={profilePic2} alt='profile' className='h-auto w-auto mx-auto'/>
       </div>
     </div>
   )
