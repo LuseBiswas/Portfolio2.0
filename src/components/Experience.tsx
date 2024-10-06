@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import { FaBriefcase, FaLaptopCode, FaGithub, FaSchool } from "react-icons/fa";
 import Image from "next/image";
 import internshipIcon from "../assets/SDE.png";
 import internshipIcon2 from "../assets/OpenSource.png";
