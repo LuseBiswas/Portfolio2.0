@@ -22,8 +22,9 @@ function Contact() {
       </div>
 
       <div className='bg-white/10 p-6 rounded-xl max-w-[550px] '>
-      <h2 className='text-5xl font-bold text-orange-400 mb-4'>Let's Connect</h2>
-      <p className='text-white/70 mb-6 '>Dont be shy, lets have chat!</p>
+      <h2 className='text-5xl font-bold text-orange-400 mb-4'>Let&apos;s Connect</h2>
+      <p className='text-white/70 mb-6 '>Don&apos;t be shy, let&apos;s have a chat!</p>
+
 
       <form action="https://getform.io/f/akkglrna" method='POST' className='space-y-4'>
         <div className='grid md:grid-cols-2 gap-4 '>

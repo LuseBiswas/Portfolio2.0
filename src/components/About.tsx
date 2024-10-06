@@ -25,7 +25,7 @@ function About() {
             <Image src={book} alt="book" className="w-auto h-[130px]" />
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl font-bold text-white/80 ">About Me</h2>
-              <p className="text-lg text-white/70 mt-2">I hold a Degree of BTech CSE & I'm eager to learn new Technologies</p>
+              <p className="text-lg text-white/70 mt-2">I hold a Degree of BTech CSE & I&apos;m eager to learn new Technologies</p>
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@ function About() {
             <Image src={finance} alt="book" className="w-auto h-[130px]" />
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl font-bold text-white/80 ">Technical Skills</h2>
-              <p className="text-lg text-white/70 mt-2">I identify as a Developer. I'm specialized in React JS, Next JS and Tailwind CSS.</p>
+              <p className="text-lg text-white/70 mt-2">I identify as a Developer. I&apos;m specialized in React JS, Next JS and Tailwind CSS.</p>
             </div>
           </div>
         </div>
