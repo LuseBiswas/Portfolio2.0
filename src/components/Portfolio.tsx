@@ -2,9 +2,9 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import project from "../assets/1.png";
-import project1 from "../assets/2.png";
-import project2 from "../assets/3.png";
+import project from "../assets/Pro2.png";
+import project1 from "../assets/Pro1.png";
+import project2 from "../assets/Pro3.png";
 
 const projects = [
   {
@@ -86,7 +86,7 @@ function Portfolio() {
               <Image
                 src={project.src}
                 alt={project.title}
-                className="h-[350px] w-[500px] object-cover border rounded border-gray-700"
+                className="h-[350px] w-[500px] object-cover "
               />
             </div>
           </motion.div>
