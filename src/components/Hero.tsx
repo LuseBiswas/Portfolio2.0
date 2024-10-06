@@ -1,10 +1,10 @@
 "use client";
 import React from 'react'
 import Image from 'next/image';
-import cursor from '../assets/icon1.png';
-import lightining from '../assets/icon2.png';
+import music from '../assets/Music.png';
+import books from '../assets/books.png'
 import { motion} from "framer-motion"
-import profilePic2 from '../assets/PROFILE.png';
+import profilePic2 from '../assets/progile.png';
 function Hero() {
   return (
     <div className='py-24 relative overflow-clip bg-[linear-gradient(to_bottom,#000,#2B1942_35%,#BF5C55_60%,#DBAF6E_80%)]'>
@@ -18,17 +18,17 @@ function Hero() {
         </div>
 
         <motion.div
-        className='hidden md:block absolute left-[120px] top-[170px]'
+        className='hidden md:block absolute left-[180px] top-[170px]'
         drag
         >
-            <Image src={cursor} height="170" width="170" alt='cursor' className='' draggable='false'/>
+            <Image src={music} height="170" width="170" alt='cursor' className='' draggable='false'/>
         </motion.div>
 
         <motion.div
         className='hidden md:block absolute right-[170px] top-[70px]'
         drag
         >
-            <Image src={lightining} height="120" width="120" alt='cursor' className='' draggable='false'/>
+            <Image src={books} height="170" width="170" alt='cursor' className='' draggable='false'/>
         </motion.div>
       
 
