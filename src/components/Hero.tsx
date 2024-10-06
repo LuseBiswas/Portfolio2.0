@@ -4,7 +4,6 @@ import Image from 'next/image';
 import cursor from '../assets/icon1.png';
 import lightining from '../assets/icon2.png';
 import { motion} from "framer-motion"
-import profilePic from '../assets/profilepic.png';
 import profilePic2 from '../assets/PROFILE.png';
 function Hero() {
   return (
